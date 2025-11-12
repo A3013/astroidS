@@ -8,3 +8,5 @@ PLAYER_RADIUS = 20  # radius of the player's ship
 LINE_WIDTH = 2  # width of the lines drawn the player's ship
 PLAYER_TURN_SPEED = 300 # degrees per second the player can turn
 PLAYER_SPEED = 200 # pixels per second the player moves forward
+SHOT_RADIUS = 5
+PLAYER_SHOOT_SPEED = 500
