@@ -10,3 +10,4 @@ PLAYER_TURN_SPEED = 300 # degrees per second the player can turn
 PLAYER_SPEED = 200 # pixels per second the player moves forward
 SHOT_RADIUS = 5
 PLAYER_SHOOT_SPEED = 500
+PLAYER_SHOOT_COOLDOWN_SECONDS = 0.3  # seconds between shots
